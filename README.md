@@ -30,7 +30,7 @@ Bartın Belediyesi Halk Kütüphanesi için geliştirilmiş web tabanlı otomasy
 
 **4.** Tarayıcıdan açın:
 ```
-http://localhost/kutuphane/
+http://localhost:8080/kutuphane/
 ```
 
 ---
